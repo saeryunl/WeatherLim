@@ -16,7 +16,7 @@ import org.apache.http.message.BasicNameValuePair;
 import android.os.AsyncTask;
 
 public class CityNetworkTask extends AsyncTask<String, Void, String> {
-	MainActivity ma_;
+	private MainActivity ma_;
 
 	public CityNetworkTask(MainActivity m) {
 		ma_ = m;
