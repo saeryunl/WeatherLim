@@ -11,7 +11,7 @@
       "host": "srlimnode",
       "domain": "eu-gb.mybluemix.net",
       "command": "node app.js",
-      "memory": ""
+      "memory": "64M"
     }
   },
   "Path": "",
