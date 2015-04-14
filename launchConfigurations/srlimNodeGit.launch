@@ -8,10 +8,10 @@
     },
     "Name": "srlimNodeGit",
     "Instrumentation": {
-      "host": "srlimGithub",
+      "host": "srlimnode",
       "domain": "eu-gb.mybluemix.net",
       "command": "node app.js",
-      "memory": "64M"
+      "memory": ""
     }
   },
   "Path": "",
