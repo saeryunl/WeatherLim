@@ -10,7 +10,7 @@
     "Instrumentation": {
       "host": "srlimGithub",
       "domain": "eu-gb.mybluemix.net",
-      "command": "app node.js",
+      "command": "node app.js",
       "memory": "64M"
     }
   },
