@@ -3,6 +3,6 @@ applications:
   host: testestest
   name: testestest
   path: webStarterApp.war
-  domain: eu-gb.mybluemix.net
+  domain: stage1.mybluemix.net
   instances: 1
   memory: 512M
